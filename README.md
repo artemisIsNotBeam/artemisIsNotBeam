@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @artemisIsNotBeam
 - 👀 I’m interested in smart contracts and web development
-- 🌱 I’m currently learning solidity and react
-- 💞️ I’m looking to collaborate on Solidity
+- 🌱 I’m currently learning web3.js and react
+- 💞️ I’m looking to collaborate on Solidity/ smart contracts
 - 📫 How to reach me Dm me on twitter @Owen35904159
 
 <!---
