@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @artemisIsNotBeam
-- 👀 I’m interested in smart contracts and web development
-- 🌱 I’m currently learning web3.js and react
+- 👀 I love coding javascript
 - 🧠 I grinding codeacdemy
-- 📫 How to reach me Dm me on twitter @Owen35904159
 - read more about me here: https://mylinks.fatso31.repl.co/
 - If you want to to check out projects before I started github
           https://replit.com/@Fatso31
