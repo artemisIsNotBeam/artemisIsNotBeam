@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @artemisIsNotBeam
 - 👀 I love coding javascript
-- 🧠 I also know, React, Python, SQL, Flask, Solidity
+- 🧠 I also know, React, Python, Express, SQL, Flask, Solidity, TypeScript, HTML, CSS
 - 🏆 I completed the Fullstack Course on Codeacademy
 - read more about me here: https://mylinks.fatso31.repl.co/
 - More projects:
