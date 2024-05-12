@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @artemisIsNotBeam
-- 👀 I love coding javascript
+- 👀 My favorite language javascript
 - 🧠 I also know, React, Python, Express, SQL, Flask, Solidity, TypeScript, HTML, CSS
 - 🏆 I completed the Fullstack Course on Codeacademy
 - read more about me here: https://mylinks.fatso31.repl.co/
